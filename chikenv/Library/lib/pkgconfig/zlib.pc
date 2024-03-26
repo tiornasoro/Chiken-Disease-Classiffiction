@@ -1,0 +1,13 @@
+prefix=E:/Chiken-Disease-Classiffiction/chikenv/Library
+exec_prefix=E:/Chiken-Disease-Classiffiction/chikenv/Library
+libdir=E:/Chiken-Disease-Classiffiction/chikenv/Library/lib
+sharedlibdir=E:/Chiken-Disease-Classiffiction/chikenv/Library/lib
+includedir=E:/Chiken-Disease-Classiffiction/chikenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
