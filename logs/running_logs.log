@@ -174,3 +174,52 @@ Source-Age: 0
 
 ]
 [2024-03-26 14:59:39,278: INFO: main: >>>>> stage Data Ingestion stage completed <<<<<]
+[2024-03-26 15:49:33,183: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 15:49:33,255: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 15:49:33,302: INFO: common: created directory at: artifacts]
+[2024-03-26 15:49:33,303: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-26 15:49:44,464: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-26 15:49:44,893: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-26 17:01:13,331: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-03-26 17:01:13,331: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 17:01:13,331: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 17:01:13,331: INFO: common: created directory at: artifacts]
+[2024-03-26 17:01:13,331: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-26 17:01:16,088: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5FDA:362EF2:4DCBF9:504A8B:6602F14B
+Accept-Ranges: bytes
+Date: Tue, 26 Mar 2024 16:01:16 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10575-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1711468876.164003,VS0,VE574
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b1fe429e07404fbc4b0abc6de79b4c1d56e00165
+Expires: Tue, 26 Mar 2024 16:06:16 GMT
+Source-Age: 0
+
+]
+[2024-03-26 17:01:16,839: INFO: main: >>>>> stage Data Ingestion stage completed <<<<<]
+[2024-03-26 17:01:16,839: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-03-26 17:01:16,839: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 17:01:16,855: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 17:01:16,855: INFO: common: created directory at: artifacts]
+[2024-03-26 17:01:16,857: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-26 17:01:17,948: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-26 17:01:18,090: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-26 17:01:18,162: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]

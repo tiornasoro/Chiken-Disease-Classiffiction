@@ -1,10 +1,10 @@
-#tensorflow
-#pandas 
+tensorflow
+pandas 
 dvc
-#notebook
-#numpy
-#matplotlib
-#seaborn
+notebook
+numpy
+matplotlib
+seaborn
 python-box==6.0.2
 pyYAML
 tqdm
