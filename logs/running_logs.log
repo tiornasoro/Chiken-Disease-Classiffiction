@@ -223,3 +223,107 @@ Source-Age: 0
 [2024-03-26 17:01:18,162: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
 
 x==========x]
+[2024-03-26 17:22:00,166: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 17:22:00,196: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 17:22:00,199: INFO: common: created directory at: artifacts]
+[2024-03-26 17:22:00,201: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-26 17:22:00,202: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-26 17:51:19,139: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-26 17:51:19,143: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-26 17:51:19,144: INFO: common: created directory at: artifacts]
+[2024-03-26 17:51:19,145: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-26 17:51:19,146: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-27 10:10:41,580: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 10:10:41,593: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 10:10:41,596: INFO: common: created directory at: artifacts]
+[2024-03-27 10:10:41,598: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-27 10:10:41,601: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-27 10:18:38,671: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 10:18:38,678: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 10:18:38,681: INFO: common: created directory at: artifacts]
+[2024-03-27 10:18:38,683: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-27 10:18:38,686: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-27 10:19:32,510: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 10:19:32,517: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 10:19:32,519: INFO: common: created directory at: artifacts]
+[2024-03-27 10:19:32,522: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-27 10:19:32,524: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-27 10:55:25,324: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 10:55:25,329: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 10:55:25,331: INFO: common: created directory at: artifacts]
+[2024-03-27 10:55:25,333: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-27 11:00:24,153: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 11:00:24,158: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 11:00:24,160: INFO: common: created directory at: artifacts]
+[2024-03-27 11:00:24,161: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-27 11:00:24,163: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-27 11:16:31,566: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 11:16:31,601: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 11:16:31,603: INFO: common: created directory at: artifacts]
+[2024-03-27 11:16:31,605: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-27 11:16:31,606: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-27 11:18:28,677: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 11:18:28,681: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 11:18:28,684: INFO: common: created directory at: artifacts]
+[2024-03-27 11:18:28,687: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-27 11:18:28,689: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-27 11:32:45,078: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 11:32:45,084: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 11:32:45,086: INFO: common: created directory at: artifacts]
+[2024-03-27 11:32:45,089: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-27 11:32:45,092: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-27 11:32:45,096: INFO: common: created directory at: artifacts\training]
+[2024-03-27 11:37:35,972: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-27 12:16:56,628: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-03-27 12:16:56,633: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 12:16:56,637: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 12:16:56,639: INFO: common: created directory at: artifacts]
+[2024-03-27 12:16:56,668: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-27 12:17:05,217: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E8FE:0DEF:4198D6C:44894F6:6604002C
+Accept-Ranges: bytes
+Date: Wed, 27 Mar 2024 11:17:01 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10522-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1711538220.237532,VS0,VE1535
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 8899812ac69c5c1dc67006173cef293419224613
+Expires: Wed, 27 Mar 2024 11:22:01 GMT
+Source-Age: 1
+
+]
+[2024-03-27 12:17:06,155: INFO: main: >>>>> stage Data Ingestion stage completed <<<<<]
+[2024-03-27 12:17:06,156: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-03-27 12:17:06,163: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 12:17:06,168: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 12:17:06,168: INFO: common: created directory at: artifacts]
+[2024-03-27 12:17:06,170: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-27 12:17:09,757: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-03-27 12:17:09,759: INFO: main: *******************]
+[2024-03-27 12:17:09,759: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-03-27 12:17:09,765: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 12:17:09,767: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 12:17:09,768: INFO: common: created directory at: artifacts]
+[2024-03-27 12:17:09,769: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-27 12:17:09,822: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-27 12:17:09,823: INFO: common: created directory at: artifacts\training]
+[2024-03-27 12:20:21,689: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-27 12:20:22,115: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
