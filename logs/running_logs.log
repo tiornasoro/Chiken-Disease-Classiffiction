@@ -452,3 +452,130 @@ x==========x]
 [2024-03-27 14:56:18,138: INFO: stage_04_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2024-03-27 15:33:44,491: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.13.131:8080]
+[2024-03-27 15:33:44,616: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-27 15:34:15,409: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:34:15] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:36:40,915: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:36:40] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:41:15,427: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:41:15] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:41:20,166: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:41:20] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:41:25,080: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:41:25] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:41:26,046: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:41:26] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:41:47,312: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.13.131:8080]
+[2024-03-27 15:41:47,313: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-27 15:41:57,321: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:41:57] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:42:04,891: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:42:04] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:42:05,869: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:42:05] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:42:06,508: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:42:06] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:42:07,240: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:42:07] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:42:07,927: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:42:07] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:42:08,488: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:42:08] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:45:20,304: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:45:20] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:45:21,072: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:45:21] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:45:21,690: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:45:21] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:45:39,467: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.13.131:8080]
+[2024-03-27 15:45:39,477: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-27 15:46:00,235: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:46:00] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:48:07,659: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-27 15:48:09,232: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:48:09] "POST /predict HTTP/1.1" 200 -]
+[2024-03-27 15:48:25,984: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-27 15:48:26,528: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:48:26] "POST /predict HTTP/1.1" 200 -]
+[2024-03-27 15:54:24,219: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:54:24] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:54:36,458: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:54:36] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:54:37,512: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:54:37] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:54:38,412: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:54:38] "GET / HTTP/1.1" 200 -]
+[2024-03-27 15:54:39,109: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 15:54:39] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:18:56,421: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.13.131:8080]
+[2024-03-27 16:18:56,421: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-27 16:19:05,690: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:19:05] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:19:28,311: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:19:28] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:19:29,132: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:19:29] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:19:29,878: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:19:29] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:19:30,610: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:19:30] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:20:36,072: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:20:36] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:20:36,768: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:20:36] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:20:37,412: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:20:37] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:20:37,962: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:20:37] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:20:38,458: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:20:38] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:21:52,675: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.16.13.131:8080]
+[2024-03-27 16:21:52,676: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-27 16:22:04,770: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:22:04] "GET / HTTP/1.1" 200 -]
+[2024-03-27 16:23:21,872: INFO: main: >>>>> stage Data Ingestion stage started <<<<<]
+[2024-03-27 16:23:21,879: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 16:23:21,885: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 16:23:21,887: INFO: common: created directory at: artifacts]
+[2024-03-27 16:23:21,889: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-27 16:23:25,490: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: ACBC:0E70:37A6428:3A2DDD3:660439EC
+Accept-Ranges: bytes
+Date: Wed, 27 Mar 2024 15:23:26 GMT
+Via: 1.1 varnish
+X-Served-By: cache-mrs10522-MRS
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1711553005.370052,VS0,VE641
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: dba456c51e2f102463afcbfa0e0b3f03ebc0bae1
+Expires: Wed, 27 Mar 2024 15:28:26 GMT
+Source-Age: 0
+
+]
+[2024-03-27 16:23:25,883: INFO: main: >>>>> stage Data Ingestion stage completed <<<<<]
+[2024-03-27 16:23:25,883: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-03-27 16:23:25,888: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 16:23:25,891: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 16:23:25,891: INFO: common: created directory at: artifacts]
+[2024-03-27 16:23:25,892: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-03-27 16:23:36,687: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-03-27 16:23:36,688: INFO: main: ******---------******]
+[2024-03-27 16:23:36,688: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-03-27 16:23:36,692: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 16:23:36,693: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 16:23:36,694: INFO: common: created directory at: artifacts]
+[2024-03-27 16:23:36,695: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-03-27 16:23:36,696: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-03-27 16:23:36,696: INFO: common: created directory at: artifacts\training]
+[2024-03-27 16:27:33,729: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-03-27 16:27:33,854: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-03-27 16:27:33,857: INFO: main: *******************]
+[2024-03-27 16:27:33,857: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-03-27 16:27:33,863: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-03-27 16:27:33,870: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-27 16:27:33,872: INFO: common: created directory at: artifacts]
+[2024-03-27 16:27:34,237: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-03-27 16:27:48,487: INFO: common: json file saved at: scores.json]
+[2024-03-27 16:27:48,489: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-03-27 16:27:50,544: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:27:50] "GET /train HTTP/1.1" 200 -]
+[2024-03-27 16:27:50,666: INFO: _internal: 127.0.0.1 - - [27/Mar/2024 16:27:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
